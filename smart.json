@@ -1,0 +1,9 @@
+{
+  "name": "audiocontext-monkeypatch",
+  "description": "Monkeypatch to use proper AudioContext naming on prefixed/deprecated named systems.",
+  "homepage": "https://github.com/cwilso/AudioContext-MonkeyPatch",
+  "author": "Lloyd Henning <eldog@foxdogstudios.com> (http://foxdogstudios.com)",
+  "version": "0.0.1",
+  "git": "https://github.com/cwilso/AudioContext-MonkeyPatch",
+  "packages": {}
+}

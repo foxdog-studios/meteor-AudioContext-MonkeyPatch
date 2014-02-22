@@ -1,0 +1,3 @@
+[submodule "lib/audiocontext-monkeypatch"]
+	path = lib/audiocontext-monkeypatch
+	url = https://github.com/cwilso/AudioContext-MonkeyPatch.git
